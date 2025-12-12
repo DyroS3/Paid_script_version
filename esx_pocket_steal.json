@@ -1,0 +1,11 @@
+{
+    "resource_name": "esx_pocket_steal",
+    "latest_version": "1.1.1",
+    "release_date": "2025-12-12",
+    "changelog": [
+        "新增: 版本检查模块",
+        "修复: 版本检查 HTTP 错误"
+    ],
+    "important": false,
+    "download": "https://github.com/DyroS3/esx_pocket_steal/releases/latest"
+}
