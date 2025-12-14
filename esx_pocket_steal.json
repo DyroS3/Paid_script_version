@@ -1,11 +1,12 @@
 {
     "resource_name": "esx_pocket_steal",
-    "latest_version": "1.1.2",
-    "release_date": "2025-12-12",
+    "latest_version": "1.2.0",
+    "release_date": "2025-12-14",
     "changelog": [
-        "变更: 使用公开仓库中转版本信息",
-        "变更: 检测到新版本时显示更新日志",
-        "变更: 支持重要更新警告提示"
+        "新增: 智能死亡检测，自动识别救护车脚本",
+        "新增: 客户端多重死亡检测（状态包 + 致命伤判定 + 动画检测）",
+        "新增: 支持 esx_ambulancejob 和 wasabi_ambulance",
+        "修复: 添加 ped 实体有效性检查，防止无效句柄错误"
     ],
     "important": false,
     "download": "https://github.com/DyroS3/esx_pocket_steal/releases/latest"
